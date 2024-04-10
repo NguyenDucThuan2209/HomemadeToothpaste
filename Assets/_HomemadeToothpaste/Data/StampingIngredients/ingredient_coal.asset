@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_coal
+  m_EditorClassIdentifier: 
+  newIngredient: 1
+  hasBought: 1
+  ingredientName: COAL
+  Type: 0
+  ingredientSprite: {fileID: 21300000, guid: e46cba772c3a24e92a1fec147f1ec25a, type: 3}
+  ingredientColor: {r: 0.05660379, g: 0.05660379, b: 0.05660379, a: 1}
+  ingredientSecondaryColor: {r: 0, g: 0, b: 0, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 1
+  ingredientChunks:
+  - {fileID: 4674308546429193830, guid: 4884a64b4e25a40ce82c9b6ec3a81c3e, type: 3}
+  - {fileID: 657557329435264517, guid: 2f283afbe6ef24627a7444cd5d92cef3, type: 3}
+  - {fileID: 4994634822522857191, guid: 6fc653b74c1f7450a8abf28e2f49dcdd, type: 3}
+  ingredientShopPrefab: {fileID: 7907853218331464682, guid: 4c45fe1cae48543f1918c77cd6fcf289, type: 3}
+  spawnAmount: 3
+  autoBalancing: 0

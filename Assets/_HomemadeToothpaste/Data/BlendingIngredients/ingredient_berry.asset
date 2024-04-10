@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_berry
+  m_EditorClassIdentifier: 
+  newIngredient: 1
+  hasBought: 1
+  ingredientName: BLUEBERRY
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: 29572962780404766a92f5e0fc1595db, type: 3}
+  ingredientColor: {r: 0.4, g: 0.3882353, b: 0.972549, a: 1}
+  ingredientSecondaryColor: {r: 0.34313005, g: 0.33806515, b: 0.6698113, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 3019424557477449067, guid: ef7a593a80bce4a0d85c4af10cb60fb6, type: 3}
+  ingredientShopPrefab: {fileID: 3127488076697474160, guid: 982f9c9bda98f45d2abe8cb11b5af62f, type: 3}
+  spawnAmount: 8

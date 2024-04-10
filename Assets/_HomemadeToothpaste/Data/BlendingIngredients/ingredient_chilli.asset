@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_chilli
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: CHILLI
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: c27ae4c50a3f9449f97927625bffae24, type: 3}
+  ingredientColor: {r: 0.5754717, g: 0.23941477, b: 0.18187076, a: 1}
+  ingredientSecondaryColor: {r: 0.41509432, g: 0.15712886, b: 0.11160554, a: 1}
+  effect: 2
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 8030466567857667645, guid: 1d7bcb1c12ef84e389a353e7bb758a8a, type: 3}
+  ingredientShopPrefab: {fileID: 4502178112331214728, guid: 3c7314b903a4649c49c7738786e00e3a, type: 3}
+  spawnAmount: 5

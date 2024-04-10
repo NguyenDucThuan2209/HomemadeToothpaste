@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_tumeric
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: TUMERIC
+  Type: 0
+  ingredientSprite: {fileID: 21300000, guid: 755f7fbf53fe74a348c2061c31bed99d, type: 3}
+  ingredientColor: {r: 0.8000001, g: 0.627451, b: 0.14509805, a: 1}
+  ingredientSecondaryColor: {r: 0.7924528, g: 0.58208984, b: 0.14578143, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 3418820638124189292, guid: 3977a09d836804e529d5450fca4793ab, type: 3}
+  ingredientShopPrefab: {fileID: 6346864522388013340, guid: 33cc300a611214b8895d32b494efcd48, type: 3}
+  spawnAmount: 3
+  autoBalancing: 0

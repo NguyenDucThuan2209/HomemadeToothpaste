@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pestle
+  - Powder
+  - Brush
+  - Mortal
+  - Spider
+  - Teeth
+  - BrushVFX
+  - TwinkleVFX
+  - VomitVFX
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Confetti
+  - Water
+  - UI
+  - Mouth
+  - Spider
+  - Mixture
+  - AttachableGem
+  - Tool
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: InfinityControlRender
+    uniqueID: 1563662545
+    locked: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_banana
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: BANANA
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: 0ac9e5b7469e7495ab6f4770ed04ddcb, type: 3}
+  ingredientColor: {r: 1, g: 0.96516216, b: 0.4669811, a: 1}
+  ingredientSecondaryColor: {r: 0.9811321, g: 0.835258, b: 0.29156283, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 2909872084979268372, guid: 9a9d4cc636cc047c3b87cb7488336a77, type: 3}
+  - {fileID: 2909872084979268372, guid: 648b98ab8d8c044d7a667ec3cbc344b6, type: 3}
+  ingredientShopPrefab: {fileID: 3423392661312323725, guid: 6a73810e61ecb422a8f8993c4d2ac99b, type: 3}
+  spawnAmount: 7

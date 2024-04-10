@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_orange
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: ORANGE
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: 04beb966f232b4b5298628263bf8262b, type: 3}
+  ingredientColor: {r: 1, g: 0.75286716, b: 0.3915094, a: 1}
+  ingredientSecondaryColor: {r: 1, g: 0.57580584, b: 0.2028302, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 2909872084979268372, guid: f92cee92bd7c047338f5203388e44263, type: 3}
+  ingredientShopPrefab: {fileID: 5145036432542130908, guid: 273854cb8c01e412ebbb35a4c86cb6d6, type: 3}
+  spawnAmount: 3

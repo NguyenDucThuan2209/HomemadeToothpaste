@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_grape
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: GRAPE
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: 65b129aa503234fdf9588e26ca4ca531, type: 3}
+  ingredientColor: {r: 0.8078629, g: 0.43867922, b: 1, a: 1}
+  ingredientSecondaryColor: {r: 0.6016765, g: 0.3066038, b: 1, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 2909872084979268372, guid: b49d8f1cae6ec442b91465d3a5e4ba5d, type: 3}
+  - {fileID: 2909872084979268372, guid: a724d68be9cfa4776806bfde38fbf8e7, type: 3}
+  ingredientShopPrefab: {fileID: 5610338772245817984, guid: 18300425a780e4a58aa0a24d4c98d6ed, type: 3}
+  spawnAmount: 10

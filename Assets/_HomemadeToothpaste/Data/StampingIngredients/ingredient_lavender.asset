@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_lavender
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: LAVENDER
+  Type: 0
+  ingredientSprite: {fileID: 21300000, guid: ce1457467baa84ef49cb05fb2b9d24d2, type: 3}
+  ingredientColor: {r: 0.7490196, g: 0.5803922, b: 0.89411765, a: 1}
+  ingredientSecondaryColor: {r: 0.4509804, g: 0.30980393, b: 0.5882353, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 6051973566740629262, guid: e15daa4c53cfd4b75b10220198e12a04, type: 3}
+  ingredientShopPrefab: {fileID: 5503830492263149798, guid: cc3f4a53f6467455e9e4ac13146ed0b2, type: 3}
+  spawnAmount: 3

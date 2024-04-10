@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_avocado
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: AVOCADO
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: c68cdf9f1c5414795b96dd5c0de88ad1, type: 3}
+  ingredientColor: {r: 0.81162506, g: 1, b: 0.5882353, a: 1}
+  ingredientSecondaryColor: {r: 0.46844962, g: 0.8207547, b: 0.53821295, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 2909872084979268372, guid: 5c4fdd3689f8a401291a00fa98601ae8, type: 3}
+  - {fileID: 2909872084979268372, guid: f46d14bd67ed747a0bf007d7b6b2812e, type: 3}
+  - {fileID: 2909872084979268372, guid: dd37e3020aa1842f6901c9316a897d6b, type: 3}
+  ingredientShopPrefab: {fileID: 8825593311672151578, guid: 1b2b0d4fb7cdf4b14876923ca5373c1f, type: 3}
+  spawnAmount: 4

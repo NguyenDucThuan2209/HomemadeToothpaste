@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_rose
+  m_EditorClassIdentifier: 
+  newIngredient: 1
+  hasBought: 1
+  ingredientName: ROSE
+  Type: 1
+  ingredientSprite: {fileID: 21300000, guid: aac4e67b5a1e34a17a402190f1e69a72, type: 3}
+  ingredientColor: {r: 1, g: 0.4384015, b: 0.4009434, a: 1}
+  ingredientSecondaryColor: {r: 0.6509434, g: 0.18115878, b: 0.18115878, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 6125684443145750805, guid: 0929b15a6a97f4abeb4bdc86513931ca, type: 3}
+  - {fileID: 9156124338214223195, guid: 24cfc03e0ff6a4ec9b97a3b86843aaa0, type: 3}
+  - {fileID: 6290963848894786600, guid: becb12536d7f34adb98870d66f4501bc, type: 3}
+  - {fileID: 474257078279139411, guid: fe342aed2d425458e9b98433d2b83023, type: 3}
+  ingredientShopPrefab: {fileID: 5716400797192556694, guid: 958e1727e0f64472d9d363b3861a0246, type: 3}
+  spawnAmount: 16

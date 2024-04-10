@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_salt
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: SALT
+  Type: 0
+  ingredientSprite: {fileID: 21300000, guid: 08299d0f61dd944f39fcf6df4ec00787, type: 3}
+  ingredientColor: {r: 0.9528302, g: 0.6427109, b: 0.68091583, a: 1}
+  ingredientSecondaryColor: {r: 0.5754717, g: 0.1764418, b: 0.20139259, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 1
+  ingredientChunks:
+  - {fileID: 3793453326898744904, guid: 363df20088c4a4d56a4c8d1da68a3f05, type: 3}
+  - {fileID: 6370414699072034327, guid: e50d3d9cc52f34c2aad341b04ab5f077, type: 3}
+  - {fileID: 9172196037320247072, guid: 32ef5a15f65434de4bf70cd36d58d863, type: 3}
+  ingredientShopPrefab: {fileID: 3761487254602567121, guid: bb0d3f7dc479d46f7bd73aaeb1854fd7, type: 3}
+  spawnAmount: 3
+  autoBalancing: 0

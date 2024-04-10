@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0faab60b4d57a40eb9788ff064a75f4d, type: 3}
+  m_Name: ingredient_chocolate
+  m_EditorClassIdentifier: 
+  newIngredient: 0
+  hasBought: 0
+  ingredientName: CHOCOLATE
+  Type: 0
+  ingredientSprite: {fileID: 21300000, guid: f8b7a48c6897c4740964d254745a91b5, type: 3}
+  ingredientColor: {r: 0.3584906, g: 0.25340742, b: 0.21137416, a: 1}
+  ingredientSecondaryColor: {r: 0.18867922, g: 0.15924259, b: 0.1450694, a: 1}
+  effect: 0
+  isMultipleFragmentShape: 0
+  ingredientChunks:
+  - {fileID: 5582750196837316248, guid: 169148ae51b87437bac18acc02054577, type: 3}
+  - {fileID: 1814713727258533554, guid: 3341c3f3c18bd4164a9fe8ea89010601, type: 3}
+  - {fileID: 5486350855371146020, guid: b78cc6bbbbf14410690186f732aa22fc, type: 3}
+  - {fileID: 657157077467802770, guid: 9867b8b7df3734afd8c345ad2db0d80b, type: 3}
+  - {fileID: 3262137534856332851, guid: b8a357b5e2a2646ba9b360823bba4cf3, type: 3}
+  - {fileID: 6654024483576060795, guid: e8f9fadd83a86412a908da844dce315c, type: 3}
+  - {fileID: 2437222538220485657, guid: 17ea57ccd728543cc85b33f5924a8357, type: 3}
+  - {fileID: 4364212493680382970, guid: d71b828167a434879a67922884b1c357, type: 3}
+  - {fileID: 1875226930157436660, guid: 13a820fa1a5c94fd9b9e1766840b6a92, type: 3}
+  - {fileID: 1138579638562877595, guid: 7e136a8e69314419899aa462c029d36a, type: 3}
+  spawnAmount: 2
+  ingredientMesh: {fileID: 0}
+  ingredientMaterial: {fileID: 0}
+  autoBalancing: 0
